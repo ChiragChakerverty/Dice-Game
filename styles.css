@@ -56,7 +56,7 @@ img {
 .btn:hover{
     background-color: darkgreen;
     color: white;
-    cursor: pointer;
+    cursor: pointer; 
 }
 
 footer {
