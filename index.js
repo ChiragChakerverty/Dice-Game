@@ -36,5 +36,9 @@ else
 var playerselect1=document.querySelectorAll("p")[0].innerHTML=player1;
 var playerselect2=document.querySelectorAll("p")[1].innerHTML=player2;
 
+function refreshPage(){
+    window.location.reload();
+} 
+
 // playerselect1.setAttribute("Player 1",player1);
 // playerselect2.setAttribute("player 2",player2);
